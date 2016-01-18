@@ -26,3 +26,6 @@ How to Setup the System: (I setup for mac and use brew to install everything)
  => mvn clean test -Pexperimentload
 
 
+
+
+[![Join the chat at https://gitter.im/skapil/gatling-google-test](https://badges.gitter.im/skapil/gatling-google-test.svg)](https://gitter.im/skapil/gatling-google-test?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
